@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662245331,
-        "narHash": "sha256-clrC0RHoHFYTVgD5QJM8hYlO8QNyiUZvZNYeoRCbONY=",
+        "lastModified": 1662254569,
+        "narHash": "sha256-36z6uDnjxBlWceOSavMOCZbN/nruQesLG107hwyYqfI=",
         "owner": "nim-nix-pkgs",
         "repo": "libfswatch",
-        "rev": "ce10e69b06f58191f353c17c117d1575adb55c88",
+        "rev": "9216ba9c81eac7b2370328aef328220605f4a5fe",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667110639,
+        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
         "type": "github"
       },
       "original": {
