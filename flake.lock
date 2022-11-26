@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775900,
-        "narHash": "sha256-tusEF48ZfDan4ehKCUHdhRZpb7YLkrFcpZTHAnNKs30=",
+        "lastModified": 1669431173,
+        "narHash": "sha256-6OUAZAIDw/LL6T185DA/EZO7cqeR7Bso9xl4RgDXEgc=",
         "owner": "nim-nix-pkgs",
         "repo": "libfswatch",
-        "rev": "a78106b7d3dcdc4570aade94d871e92b6e8a5d6f",
+        "rev": "ced00f8aa30458600754f21224ea239d08f376e5",
         "type": "github"
       },
       "original": {
